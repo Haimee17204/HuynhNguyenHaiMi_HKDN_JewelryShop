@@ -5,23 +5,23 @@ Hệ thống Cửa hàng Mỹ phẩm hoạt động như một kênh quan trọn
 
 III. Chức năng
 
-Chức năng cho Guest (khách vãng lai):
+1. Chức năng cho Guest (khách vãng lai):
 Tìm kiếm sản phẩm: Cho phép tìm kiếm mỹ phẩm theo tên, loại da, công dụng, giá, v.v,Xem thông tin sản phẩm: Chi tiết sản phẩm bao gồm mô tả, hình ảnh, giá cả, thành phần, công dụng, v.v.
 Đăng ký tài khoản: Tạo tài khoản Customer.
 
-Chức năng cho Customer
+2. Chức năng cho Customer
 • Tìm kiếm sản phẩm: Như Guest. • Thêm sản phẩm vào giỏ hàng: Lưu các sản phẩm muốn mua vào giỏ hàng. • Đặt hàng và thanh toán: Hoàn tất quá trình mua hàng và thanh toán. • Xem và quản lý thông tin đơn hàng: Kiểm tra trạng thái đơn hàng, lịch sử mua hàng. • Xem lịch sử giao dịch: Xem chi tiết các giao dịch trước đây. • Tích điểm thưởng: Tích lũy điểm thưởng từ các giao dịch. • Xem và quản lý thông tin bảo hành: Kiểm tra thông tin và trạng thái bảo hành của sản phẩm đã mua.
 
-Chức năng cho Sales Staff
+3. Chức năng cho Sales Staff
 • Cập nhật trạng thái đơn hàng: Thay đổi trạng thái đơn hàng (ví dụ: đang xử lý, đã hoàn thành). • Hỗ trợ khách hàng trong việc đặt hàng: Hỗ trợ khách hàng nếu họ gặp vấn đề trong quá trình đặt hàng. • Quản lý khuyến mãi và ưu đãi: Tạo, cập nhật, và xóa các chương trình khuyến mãi.
 
-Chức năng cho Delivery Staff
+4. Chức năng cho Delivery Staff
 • Xem và cập nhật trạng thái giao hàng: Kiểm tra và cập nhật trạng thái của các đơn hàng đang giao. • Xác nhận giao hàng thành công: Xác nhận khi đơn hàng đã được giao thành công cho khách hàng.
 
-Chức năng cho Manager
+5. Chức năng cho Manager
 • Quản lý nhân viên: Tạo, cập nhật, và xóa thông tin nhân viên. • Xem báo cáo doanh số và hoạt động: Xem các báo cáo chi tiết về doanh số và hoạt động của cửa hàng. • Quản lý sản phẩm và tồn kho: Thêm, sửa, xóa sản phẩm; quản lý số lượng tồn kho. • Quản lý chương trình khuyến mãi: Như Sales Staff. • Quản lý bảo hành và chứng nhận: Quản lý thông tin bảo hành và chứng nhận của sản phẩm.
 
-Chức năng cho Admin
+6. Chức năng cho Admin
 • Quản lý người dùng: Tạo, sửa, xóa tài khoản người dùng. • Quản lý toàn bộ dữ liệu sản phẩm: Như Manager. • Quản lý chứng nhận, bảo hành và khuyến mãi: Như Manager. • Quản lý bài viết blog: Tạo, cập nhật, và xóa các bài viết trên blog. • Quản lý đơn hàng và kho hàng: Như Manager. • Xem và quản lý các báo cáo hệ thống: Xem các báo cáo tổng quan về hệ thống.
 IV. Công nghệ sử dung Website Application được xây dựng trên:
 
