@@ -1,7 +1,7 @@
 Jewelry Shop System là hệ thống quản lý kinh doanh trang sức trực tuyến của công ty. Thông qua ứng dụng website, khách hàng có thể dễ dàng xem thông tin cửa hàng, khám phá các sản phẩm trang sức như nhẫn, vòng cổ, bông tai, lắc tay... Quản lý và nhân viên có thể thực hiện các thao tác quản lý sản phẩm, xử lý đơn đặt hàng, và chăm sóc khách hàng một cách hiệu quả, góp phần nâng cao hiệu quả kinh doanh.
 
 II. Phạm vi sản phẩm.
-  Hệ thống Cửa hàng Mỹ phẩm hoạt động như một kênh quan trọng để kết nối với khách hàng từ khắp nơi thông qua Internet. Mục tiêu là quảng bá hình ảnh và sản phẩm của Công ty, đồng thời góp phần xây dựng thương       hiệu. Công ty có thể thu thập dữ liệu phản hồi của khách hàng về sản phẩm và chất lượng dịch vụ để điều chỉnh chiến lược kinh doanh.
+  Hệ thống Cửa hàng Trang Sức hoạt động như một kênh quan trọng để kết nối với khách hàng từ khắp nơi thông qua Internet. Mục tiêu là quảng bá hình ảnh và sản phẩm của Công ty, đồng thời góp phần xây dựng thương      hiệu. Công ty có thể thu thập dữ liệu phản hồi của khách hàng về sản phẩm và chất lượng dịch vụ để điều chỉnh chiến lược kinh doanh.
 
 III. Chức năng
 
